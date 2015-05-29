@@ -1,0 +1,11 @@
+[
+    { "text": "Support", "href": "/support/fr/" },
+    { "text": "Blog", "href": "/support/fr/posts" },
+    { "text": "Plus",
+        "items": [
+            { "text": "FAQs", "href": "/support/fr/faqs" },
+            { "text": "Confidentialité des Données", "href": "/support/fr/privacy" },
+            { "text": "Conditions d'Utilisation", "href": "/support/fr/terms" }
+        ]
+    }
+]
