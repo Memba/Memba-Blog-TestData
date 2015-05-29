@@ -6,5 +6,5 @@ Test Data needs to be in a separate project otherwise any commit triggers a rebu
 
 For more information, see:
 
-- https://github.com/Memba/Memba-Blog
-- https://github.com/Kidoju/Kidoju-Blog
+- [Memba-Blog](https://github.com/Memba/Memba-Blog)
+- [Kidoju-Blog](https://github.com/Kidoju/Kidoju-Blog)
