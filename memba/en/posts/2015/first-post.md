@@ -15,3 +15,4 @@ site_url: http://localhost:3000/en/posts/2015/05/first-post
 ---
 ## Hello
 This is our first blog post
+![Kifs Playing](http://cloudimages.youthconnect.in/wp-content/uploads/2014/11/KidsPlaying.jpg)
