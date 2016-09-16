@@ -16,3 +16,7 @@ site_url: http://localhost:3000/en/posts/2015/05/fourth-post
 ## baby
 
 Hip hip hip!
+
+<iframe src="https://www.kidoju.com/en/x/570cc7f46d1dd91900729417/570cc7f56d1dd91900729418?embed=true&theme=flat" style="height:494px;width:600px;border:0"></iframe>
+
+Cool?
