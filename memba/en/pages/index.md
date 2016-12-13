@@ -11,7 +11,7 @@ author_url: https://github.com/jlchereau
 avatar_url: https://avatars.githubusercontent.com/u/2556751?v=3
 creation_date: 2015-05-29T17:12:56Z
 edit_url: https://github.com/Memba/Memba-Blog-TestData/blob/master/memba/en/pages/index.md
-site_url: http://localhost:3000/support/en
+site_url: http://localhost:3000/en
 ---
 <div class="row">
     <div class="col-sm-6 col-md-4">
