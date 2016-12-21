@@ -4,7 +4,7 @@ description: Kidoju support, including datasheet, eBook, video tutorials, blog a
 icon: lifebelt
 keywords: Memba, Kidoju, teach, learn, study, knowledge, test, blog, article, documentation, ebook, video, webinar, tutorial, slide
 language: en
-title: Support Options
+title: Support
 uuid: 22d7d050-0ab7-11e5-8e6c-c3552af7ecb7
 author: jlchereau
 author_url: https://github.com/jlchereau
