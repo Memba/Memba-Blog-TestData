@@ -1,6 +1,6 @@
 ---
 uuid: 6f5576a0-f0bb-11e4-8033-797a7732d2df
-category: Students
+category: Default
 creation_date: 2015-05-29T09:13:30Z
 description: This is a first blog post written with love and care
 icon: typewriter
