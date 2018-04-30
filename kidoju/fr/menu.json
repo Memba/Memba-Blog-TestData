@@ -5,7 +5,8 @@
         "items": [
             { "text": "FAQs", "href": "/support/fr/faqs" },
             { "text": "Confidentialité des Données", "href": "/support/fr/privacy" },
-            { "text": "Conditions d'Utilisation", "href": "/support/fr/terms" }
+            { "text": "Conditions d'Utilisation", "href": "/support/fr/terms" },
+            { "text": "Nous contacter", "href": "/support/fr/contact" }
         ]
     }
 ]
