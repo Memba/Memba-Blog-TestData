@@ -3,7 +3,7 @@ category: Miscellaneous
 description: Un formulaire pour nous contacter.
 icon: user_telephone
 keywords: Memba, Kidoju, logiciel, éducation, enseigner, apprendre, professeur, étudiant, connaissance, exercice, test, quiz, blog, article, documentation
-language: en
+language: fr
 title: Nous contacter
 uuid: 9aa49c0f-a12d-43d0-917c-ee76225bee7a
 author: jlchereau
