@@ -82,7 +82,7 @@ creation_date: 2016-04-12T08:56:29Z
         var hash = window.location.hash.substr(1).split(/[&=]/);
         var length = hash.length;
         if (Math.floor(length / 2) === length / 2) {
-            for (var i = 0; i < lemngth / 2; i++) {
+            for (var i = 0; i < length / 2; i++) {
                 $('#' + hash[2 * i].toLowerCase()).val(hash[2 * i + 1]);
             }
         }
