@@ -1,22 +1,22 @@
 ---
 category: Miscellaneous
-description: A contact form to reach us.
+description: Un formulaire pour nous contacter.
 icon: user_telephone
-keywords: Memba, Kidoju, software, education, teach, learn, teacher, student, knowledge, test, quiz, blog, article, documentation
+keywords: Memba, Kidoju, logiciel, éducation, enseigner, apprendre, professeur, étudiant, connaissance, exercice, test, quiz, blog, article, documentation
 language: en
-title: Contact Us
-uuid: daac815d-298b-406b-a707-0110a1c2685f
+title: Nous contacter
+uuid: 9aa49c0f-a12d-43d0-917c-ee76225bee7a
 author: jlchereau
 author_url: https://github.com/jlchereau
 avatar_url: https://avatars.githubusercontent.com/u/2556751?v=3
-edit_url: https://github.com/Memba/Memba-Blog-TestData/blob/master/memba/en/pages/contact.md
-site_url: http://localhost:3000/en/contact
-creation_date: 2016-04-12T08:56:29Z
+edit_url: https://github.com/Memba/Memba-Blog-TestData/blob/master/memba/fr/pages/contact.md
+site_url: http://localhost:3000/fr/contact
+creation_date: 2016-04-12T08:51:27Z
 ---
 <div id="alert" class="row" style="display:none;">
     <div class="col-sm-12">
         <div class="alert alert-success" role="alert">
-            Thank you for your submission.
+            Merci pour votre .
         </div>
     </div>    
 </div>
@@ -24,40 +24,40 @@ creation_date: 2016-04-12T08:56:29Z
     <div class="col-sm-8">
         <form name="contact" action="/form" method="post">
             <div class="form-group">
-                <label for="firstName">First Name: </label>
+                <label for="firstName">Prénom&nbsp;: </label>
                 <input id="firstName" name="FirstName" type="text" class="k-textbox" style="width: 100%" required>
             </div>
             <div class="form-group">
-                <label for="lastName">Last Name: </label>
+                <label for="lastName">Nom&nbsp;: </label>
                 <input id="lastName" name="LastName" type="text" class="k-textbox" style="width: 100%" required>
             </div>
             <div class="form-group">
-                <label for="organization">Organisation: </label>
+                <label for="organization">Organisation&nbsp;: </label>
                 <input id="organization" name="Organization" type="text" class="k-textbox" style="width: 100%">
             </div>
             <div class="form-group">
-                <label for="role">Role: </label>
+                <label for="role">Fonction&nbsp;: </label>
                 <input id="role" name="Role" type="text" class="k-textbox" style="width: 100%">
             </div>
             <div class="form-group">
-                <label for="email">E-mail: </label>
+                <label for="email">E-mail&nbsp;: </label>
                 <input id="email" name="Email" type="email" class="k-textbox" style="width: 100%" required>
             </div>
             <div class="form-group">
-                <label for="phone">Phone: </label>
+                <label for="phone">Téléphone&nbsp;: </label>
                 <input id="phone" name="Phone" type="text" class="k-textbox" style="width: 100%">
             </div>
             <div class="form-group">
-                <label for="message">Message: </label>
+                <label for="message">Message&nbsp;: </label>
                 <textarea id="message" name="Message" class="k-textbox" style="width: 100%; height: 150px; resize: vertical" required></textarea>
             </div>
             <div class="form-group">
-                <input type="submit" value="Submit" class="k-button k-primary pull-right">
+                <input type="submit" value="Soumettre" class="k-button k-primary pull-right">
             </div>
         </form>
     </div>
     <div class="col-sm-4">
-        <p><strong>Or write us at:</strong></p>
+        <p><strong>Ou écrivez-nous à:</strong></p>
         <address>
             Memba Sarl<br/>
             20 avenue Pasteur<br/>
