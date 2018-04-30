@@ -16,7 +16,7 @@ creation_date: 2016-04-12T08:51:27Z
 <div id="alert" class="row" style="display:none;">
     <div class="col-sm-12">
         <div class="alert alert-success" role="alert">
-            Merci pour votre .
+            Merci pour avoir complété ce formulaire.
         </div>
     </div>    
 </div>
