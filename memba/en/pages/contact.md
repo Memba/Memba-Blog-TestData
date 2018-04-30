@@ -18,7 +18,7 @@ creation_date: 2016-04-12T08:56:29Z
         <div class="alert alert-success" role="alert">
             Thank you for your submission.
         </div>
-    <.div>    
+    </div>    
 </div>
 <div class="row">
     <div class="col-sm-8">
