@@ -5,7 +5,8 @@
         "items": [
             { "text": "FAQs", "href": "/en/faqs" },
             { "text": "Privacy Policy", "href": "/en/privacy" },
-            { "text": "Terms of Use", "href": "/en/terms" }
+            { "text": "Terms of Use", "href": "/en/terms" },
+            { "text": "COntact us", "href": "/en/contact" }
         ]
     }
 ]

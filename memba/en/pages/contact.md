@@ -15,6 +15,11 @@ creation_date: 2016-04-12T08:56:29Z
 ---
 <div class="container">
     <div class="row">
+        <div class="alert alert-success" role="alert">
+            Thank you for your submission.
+        </div>
+    </div>
+    <div class="row">
         <div class="col-sm-8">
             <form name="contact" action="/form" method="post">
                 <div class="form-group">
@@ -74,11 +79,18 @@ creation_date: 2016-04-12T08:56:29Z
                 }
             });
         }
+        var hash = window.location.hash.substr(1).split(/[&=]/);
+        var length = hash.length;
+        if (Math.floor(length / 2) === length / 2) {
+            for (var i = 0; i < lemngth / 2; i++) {
+                $('#' + hash[2 * i].toLowerCase()).val(hash[2 * i + 1]);
+            }
+        }
         setTimeout(function () {
             var a = Math.floor(100 * Math.random());
             var b = Math.floor(100 * Math.random());
-            form.append('<input id="__a" name="__a" type="hidden" value="' + a + '+' + b + '">');
-            form.append('<input id="__b" name="__b" type="hidden" value="' + (a + b) + '">');
+            form.append('<input name="__a" type="hidden" value="' + a + '+' + b + '">');
+            form.append('<input name="__b" type="hidden" value="' + (a + b) + '">');
         }, 15 * 1000);
     });
 }(this, jQuery));
