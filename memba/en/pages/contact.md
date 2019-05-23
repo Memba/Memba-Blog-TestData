@@ -52,7 +52,7 @@ creation_date: 2016-04-12T08:56:29Z
                 <textarea id="message" name="Message" class="k-textbox" style="width: 100%; height: 150px; resize: vertical" required></textarea>
             </div>
             <div class="form-group">
-                <input type="submit" value="Submit" class="k-button k-primary pull-right">
+                <input type="submit" value="Submit" class="k-button k-primary float-right">
             </div>
         </form>
     </div>
