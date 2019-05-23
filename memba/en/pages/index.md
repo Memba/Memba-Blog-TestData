@@ -14,7 +14,7 @@ edit_url: https://github.com/Memba/Memba-Blog-TestData/blob/master/memba/en/page
 site_url: http://localhost:3000/en
 ---
 <div class="row">
-    <div class="col-md-6 col-lg-4">
+    <div class="col-md-6 col-lg-4 mb-3">
         <div class="card k-widget">
             <img class="card-img-top" src="https://raw.githubusercontent.com/kidoju/support.kidoju.com/master/en/pages/index1.jpg" alt="Datasheet">
             <div class="card-body">
@@ -25,7 +25,7 @@ site_url: http://localhost:3000/en
             </div>
         </div>
     </div>
-    <div class="col-md-6 col-lg-4">
+    <div class="col-md-6 col-lg-4 mb-3">
         <div class="card k-widget">
             <img class="card-img-top" src="https://raw.githubusercontent.com/kidoju/support.kidoju.com/master/en/pages/index2.jpg" alt="User Guide">
             <div class="card-body">
@@ -36,7 +36,7 @@ site_url: http://localhost:3000/en
             </div>
         </div>
     </div>
-    <div class="col-md-6 col-lg-4">
+    <div class="col-md-6 col-lg-4 mb-3">
         <div class="card k-widget">
             <img class="card-img-top" src="https://raw.githubusercontent.com/kidoju/support.kidoju.com/master/en/pages/index4.jpg" alt="Blog">
             <div class="card-body">
@@ -46,7 +46,7 @@ site_url: http://localhost:3000/en
             </div>
         </div>
     </div>
-    <div class="col-md-6 col-lg-4">
+    <div class="col-md-6 col-lg-4 mb-3">
         <div class="card k-widget">
             <img class="card-img-top" src="https://raw.githubusercontent.com/kidoju/support.kidoju.com/master/en/pages/index5.jpg" alt="Video Tutorials">
             <div class="card-body">
@@ -56,7 +56,7 @@ site_url: http://localhost:3000/en
             </div>
         </div>
     </div>
-    <div class="col-md-6 col-lg-4">
+    <div class="col-md-6 col-lg-4 mb-3">
         <div class="card k-widget">
             <img class="card-img-top" src="https://raw.githubusercontent.com/kidoju/support.kidoju.com/master/en/pages/index3.jpg" alt="User Feedback">
             <div class="card-body">
@@ -66,7 +66,7 @@ site_url: http://localhost:3000/en
             </div>
         </div>
     </div>
-    <div class="col-md-6 col-lg-4">
+    <div class="col-md-6 col-lg-4 mb-3">
         <div class="card k-widget">
             <img class="card-img-top" src="https://raw.githubusercontent.com/kidoju/support.kidoju.com/master/en/pages/index6.jpg" alt="Social Networks">
             <div class="card-body">
