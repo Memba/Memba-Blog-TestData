@@ -16,6 +16,6 @@ site_url: http://localhost:3000/en/posts/2015/05/first-post
 ## Hello
 This is our first blog post
 
-![An image](http://cdn2.gsmarena.com/vv/pics/apple/apple-iphone-6-2.jpg)
+![An image](https://store.storeimages.cdn-apple.com/4668/as-images.apple.com/is/iphone-12-pro-family-hero)
 
 [Memba web site](http://www.memba.com)
