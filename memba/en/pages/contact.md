@@ -22,37 +22,50 @@ creation_date: 2016-04-12T08:56:29Z
 </div>
 <div class="row">
     <div class="col-sm-8">
-        <form name="contact" action="/form" method="post">
-            <div class="form-group">
-                <label for="firstName">First Name: </label>
-                <input id="firstName" name="FirstName" type="text" class="k-textbox" style="width: 100%" required>
+        <form name="contact" action="/form" method="post" class="k-widget k-form">
+            <div class="k-form-field">
+                <label for="firstName" class="k-label k-form-label">First Name: </label>
+                    <input id="firstName" name="FirstName" type="text" class="k-input-inner" style="width: 100%" required>
+                </span>
             </div>
-            <div class="form-group">
-                <label for="lastName">Last Name: </label>
-                <input id="lastName" name="LastName" type="text" class="k-textbox" style="width: 100%" required>
+            <div class="k-form-field">
+                <label for="lastName" class="k-label k-form-label">Last Name: </label>
+                <span class="k-input k-textbox k-rounded">
+                    <input id="lastName" name="LastName" type="text" class="k-input-inner" style="width: 100%" required>
+                </span>
             </div>
-            <div class="form-group">
-                <label for="organization">Organisation: </label>
-                <input id="organization" name="Organization" type="text" class="k-textbox" style="width: 100%">
+            <div class="k-form-field">
+                <label for="organization" class="k-label k-form-label">Organisation: </label>
+                <span class="k-input k-textbox k-rounded">
+                    <input id="organization" name="Organization" type="text" class="k-input-inner" style="width: 100%">
+                </span>
             </div>
-            <div class="form-group">
-                <label for="role">Role: </label>
-                <input id="role" name="Role" type="text" class="k-textbox" style="width: 100%">
+            <div class="k-form-field">
+                <label for="role" class="k-label k-form-label">Role: </label>
+                <span class="k-input k-textbox k-rounded">
+                    <input id="role" name="Role" type="text" class="k-input-inner" style="width: 100%">
+                </span>
             </div>
-            <div class="form-group">
-                <label for="email">E-mail: </label>
-                <input id="email" name="Email" type="email" class="k-textbox" style="width: 100%" required>
+            <div class="k-form-field">
+                <label for="email" class="k-label k-form-label">E-mail: </label>
+                <span class="k-input k-textbox k-rounded">
+                    <input id="email" name="Email" type="email" class="k-input-inner" style="width: 100%" required>
+                </span>
             </div>
-            <div class="form-group">
-                <label for="phone">Phone: </label>
-                <input id="phone" name="Phone" type="text" class="k-textbox" style="width: 100%">
+            <div class="k-form-field">
+                <label for="phone" class="k-label k-form-label">Phone: </label>
+                <span class="k-input k-textbox k-rounded">
+                    <input id="phone" name="Phone" type="text" class="k-input-inner" style="width: 100%">
+                </span>
             </div>
-            <div class="form-group">
-                <label for="message">Message: </label>
-                <textarea id="message" name="Message" class="k-textbox" style="width: 100%; height: 150px; resize: vertical" required></textarea>
+            <div class="k-form-field">
+                <label for="message" class="k-label k-form-label">Message: </label>
+                <span class="k-input k-textarea k-rounded k-resize-vertical">
+                    <textarea id="message" name="Message" class="k-input-inner k-overflow-auto" style="width: 100%; height: 150px; resize: vertical" required></textarea>
+                </span>
             </div>
-            <div class="form-group">
-                <input type="submit" value="Submit" class="k-button k-primary float-right">
+            <div class="k-form-buttons">
+                <input type="submit" value="Submit" class="k-button k-button-md k-rounded k-input-button k-button-solid k-button-solid-primary k-float-right">
             </div>
         </form>
     </div>

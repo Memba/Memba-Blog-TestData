@@ -23,10 +23,10 @@ site_url: http://localhost:3000/en
             </div>
             <div class="k-card-actions k-card-actions-stretched">
                 <span class="k-card-action">
-                    <a href="https://github.com/kidoju/support.kidoju.com/blob/master/en/docs/Datasheet.en.screen.pdf" target="_blank" class="k-button k-primary" role="button">Open</a>
+                    <a href="https://github.com/kidoju/support.kidoju.com/blob/master/en/docs/Datasheet.en.screen.pdf" target="_blank" class="k-button k-button-flat k-button-flat-primary k-button-md k-rounded" role="button">Open</a>
                 </span>
                 <span class="k-card-action">
-                    <a href="https://github.com/kidoju/support.kidoju.com/raw/master/en/docs/Datasheet.en.screen.pdf" class="k-button" role="button">Download</a>
+                    <a href="https://github.com/kidoju/support.kidoju.com/raw/master/en/docs/Datasheet.en.screen.pdf" class="k-button k-button-flat k-button-md k-rounded" role="button">Download</a>
                 </span>
             </div>
         </div>
@@ -40,10 +40,10 @@ site_url: http://localhost:3000/en
             </div>
             <div class="k-card-actions k-card-actions-stretched">
                 <span class="k-card-action">
-                    <a href="https://cdn.kidoju.com/support/docs/user-guide.en.pdf" target="_blank" class="k-button k-primary" role="button">Open</a>
+                    <a href="https://cdn.kidoju.com/support/docs/user-guide.en.pdf" target="_blank" class="k-button k-button-flat k-button-flat-primary k-button-md k-rounded" role="button">Open</a>
                 </span>
                 <span class="k-card-action">
-                    <a href="https://github.com/kidoju/Kidoju-Help/raw/master/docs/user-guide.en.pdf" class="k-button" role="button">Download</a>
+                    <a href="https://github.com/kidoju/Kidoju-Help/raw/master/docs/user-guide.en.pdf" class="k-button k-button-flat k-button-md k-rounded" role="button">Download</a>
                 </span>
             </div>
         </div>
@@ -57,7 +57,7 @@ site_url: http://localhost:3000/en
             </div>
             <div class="k-card-actions k-card-actions-stretched">
                 <span class="k-card-action">
-                    <a href="https://www.kidoju.com/support/en/posts" class="k-button k-primary" role="button">Navigate</a>
+                    <a href="https://www.kidoju.com/support/en/posts" class="k-button k-button-flat k-button-flat-primary k-button-md k-rounded" role="button">Navigate</a>
                 </span>
             </div>
         </div>
@@ -71,7 +71,7 @@ site_url: http://localhost:3000/en
             </div>
             <div class="k-card-actions k-card-actions-stretched"> 
                 <span class="k-card-action">
-                <a href="https://www.youtube.com/channel/UCzvNSb6xFpN8kIaw85M1-Pg" target="_blank" class="k-button k-primary" role="button">YouTube</a>
+                <a href="https://www.youtube.com/channel/UCzvNSb6xFpN8kIaw85M1-Pg" target="_blank" class="k-button k-button-flat k-button-flat-primary k-button-md k-rounded" role="button">YouTube</a>
                 </span>
             </div>
         </div>
@@ -85,7 +85,7 @@ site_url: http://localhost:3000/en
             </div>
             <div class="k-card-actions k-card-actions-stretched">
                 <span class="k-card-action">
-                <a href="https://kidoju.uservoice.com/forums/152569-general" target="_blank" class="k-button k-primary" role="button">Suggest and Vote</a>
+                <a href="https://kidoju.uservoice.com/forums/152569-general" target="_blank" class="k-button k-button-flat k-button-flat-primary k-button-md k-rounded" role="button">Suggest and Vote</a>
                 </span>
             </div>
         </div>
@@ -99,8 +99,8 @@ site_url: http://localhost:3000/en
             </div>
             <div class="k-card-actions k-card-actions-stretched">
                 <span class="k-card-action">
-                <a href="https://twitter.com/kidoju" target="_blank" class="k-button k-primary" role="button">Twitter</a>&nbsp;
-                <a href="https://www.facebook.com/kidoju" target="_blank" class="k-button" role="button">Facebook</a>
+                <a href="https://twitter.com/kidoju" target="_blank" class="k-button k-button-flat k-button-flat-primary k-button-md k-rounded" role="button">Twitter</a>&nbsp;
+                <a href="https://www.facebook.com/kidoju" target="_blank" class="k-button k-button-flat k-button-md k-rounded" role="button">Facebook</a>
                 </span>
             </div>
         </div>

@@ -62,11 +62,11 @@ creation_date: 2016-04-12T08:51:27Z
             <div class="k-form-field">
                 <label for="message" class="k-label k-form-label">Message&nbsp;: </label>
                 <span class="k-input k-textarea k-rounded k-resize-vertical">
-                    <textarea id="message" name="Message" class="k-input-inner" style="width: 100%; height: 150px; resize: vertical" required></textarea>
+                    <textarea id="message" name="Message" class="k-input-inner k-overflow-auto" style="width: 100%; height: 150px; resize: vertical" required></textarea>
                 </span>
             </div>
             <div class="k-form-buttons">
-                <input type="submit" value="Soumettre" class="k-button k-primary">
+                <input type="submit" value="Soumettre" class="k-button k-button-md k-rounded k-input-button k-button-solid k-button-solid-primary k-float-right">
             </div>
         </form>
     </div>
