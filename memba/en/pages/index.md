@@ -21,6 +21,7 @@ site_url: http://localhost:3000/en
                 <h3 class="k-k-card-title">Datasheet</h3>
                 <p class="k-card-text" style="min-height:4em;">A summary of the features and benefits of the Kidoju platform.</p>
             </div>
+            <div class="k-card-actions k-card-actions-stretched">
                 <span class="k-card-action">
                     <a href="https://github.com/kidoju/support.kidoju.com/blob/master/en/docs/Datasheet.en.screen.pdf" target="_blank" class="k-button k-primary" role="button">Open</a>
                 </span>
